@@ -58,8 +58,6 @@ Vom Konzept über Drehplanung bis zum finalen Schnitt – ich erzähle deine Sto
 
 ## 🤝 Lass uns vernetzen!
 🌐 [KevkoStudio](https://kevko.studio)  
-📧 **[Email schreiben](mailto:deine-email@example.com)**  
-💬 Discord: `DeinDiscordName`# 👋 Hey, ich bin Kevin (Kevko)
 
 💡 **Entwickler & Creator** – mit einem besonderen Hang zu gutem Bewegtbild und klaren Markenauftritten.  
 🎯 Ziel: Design, Inhalt und Technik so verbinden, dass Projekte nicht nur funktionieren, sondern **bleibenden Eindruck** hinterlassen.
